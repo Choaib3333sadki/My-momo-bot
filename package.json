@@ -27,7 +27,7 @@
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "@adiwajshing/baileys": "npm:@skyzopedia/baileys-mod",
+    "@adiwajshing/baileys": "npm:@fadzzzslebew/baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
     "awesome-phonenumber": "^2.68.0",
     "axios": "^1.7.3",
