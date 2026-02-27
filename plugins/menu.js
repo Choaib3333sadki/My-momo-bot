@@ -80,7 +80,7 @@ let handler = async (m, { conn, usedPrefix, command, args }) => {
                 },
             {
                     header: "Info Owner",
-                    title: "معلومات عن صاحب البوت",
+                    title: "-chouaib-معلومات عن صاحب البوت",
                     description: "",
                     id: ".owner",
                 },
@@ -106,7 +106,7 @@ let handler = async (m, { conn, usedPrefix, command, args }) => {
    for (let b of objek) {
     totalHit += b
     }
-  let docUrl = 'https://telegra.ph/file/e601537d315cbc69b856b.jpg'
+  let docUrl = 'https://telegra.ph/fil315cbc69b856b.jpg'
   let help = Object.values(global.plugins).filter(plugin => !plugin.disabled).map(plugin => {
     return {
       help: Array.isArray(plugin.tags) ? plugin.help : [plugin.help],
@@ -123,7 +123,7 @@ let handler = async (m, { conn, usedPrefix, command, args }) => {
    let tUser = Object.keys(db.data.users).length;
    let userReg = Object.values(global.db.data.users).filter(user => user.registered == true).length
    
-let headers = `إعتبرني : رفيقتك ، أستاذتك ،عزيزتك ،التي ستجدها قربك في كل يوم لأجعل لك من نجمة ستة و من استخدام تطبيق الواتساب طعما آخر 🙂‍↕️🧠🗣️\n\n`
+let headers = `"chouaibsadki" إعتبرني : رفيقك ، أستاذك ، ،الدي ستجده قربك في كل يوم لأجعل لك من نجمة ستة و من استخدام تطبيق الواتساب طعما آخر 🙂‍↕️🧠🗣️\n\n`
 
   if (cmd === 'list') {
     const daftarTag = Object.keys(tagCount)
@@ -160,7 +160,7 @@ conn.sendMessage(m.chat, {
       } else if (_menu.gif) {
 
 conn.sendMessage(m.chat, {
-      video: {url: "https://telegra.ph/file/ca2d038b71ff86e2c70d3.mp4"},
+      video: {url: "https://telegra.ph/file/70d3.mp4"},
       gifPlayback: true,
       caption: list,
       jpegThumbnail: await conn.resize((await conn.getFile(docUrl)).data, 180, 72),
@@ -191,7 +191,7 @@ conn.sendMessage(m.chat, {
               externalAdReply: {
                 containsAutoReply: true,
                 mediaType: 1,
-                mediaUrl: 'https://telegra.ph/file/74abb87ac6082571db546.jpg',
+                mediaUrl: 'https://telegra.ph/file/pg',
                 renderLargerThumbnail: true,
                 showAdAttribution: true,
                 sourceUrl: sgc,
@@ -235,7 +235,7 @@ conn.sendMessage(m.chat, {
       } else if (_menu.gif) {
 
 conn.sendMessage(m.chat, {
-      video: {url: "https://telegra.ph/file/ca2d038b71ff86e2c70d3.mp4"},
+      video: {url: "https://telegra.ph/file/"},
       gifPlayback: true,
       caption: list2,
       contextInfo: {
@@ -265,7 +265,7 @@ conn.sendMessage(m.chat, {
               externalAdReply: {
                 containsAutoReply: true,
                 mediaType: 1,
-                mediaUrl: 'https://telegra.ph/file/74abb87ac6082571db546.jpg',
+                mediaUrl: 'https://instagram/sadkichoaib',
                 renderLargerThumbnail: true,
                 showAdAttribution: true,
                 sourceUrl: sgc,
