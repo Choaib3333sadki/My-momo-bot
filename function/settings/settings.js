@@ -14,18 +14,18 @@ global.setting = {
  }
 
 global.info = {
- nomerbot : '212605784394',
- pairingNumber : '212605784394',
+ nomerbot : '212630789926',
+ pairingNumber : '212630789926',
  figlet: 'silanalite', // create a start console display
  nomorwa : '212605784394',
- nameown : 'NOUREDDINE',
- nomerown : '212717457920',
- packname : 'sticker by ',
- author : 'SILANA AI',
- namebot : '乂 SILANA AI',
- wm : 'SILANA LITE.',
+ nameown : 'CHOUAIB',
+ nomerown : '212630789926',
+ packname : 'sticker BY CHOUAIB ',
+ author : 'CHOUAIB AI',
+ namebot : '乂 CHOUAIB LITE AI',
+ wm : 'CHOUAIB LITE.',
  stickpack : 'Whatsapp',
- stickauth : 'SILANA LITE',
+ stickauth : 'CHIUAIB LITE',
  jid: '@s.whatsapp.net'
 }
 
@@ -52,9 +52,9 @@ global.media = {
 }
 // Social media
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
- sgh:  'https://instagram.com/noureddine_ouafy',
- sgc: 'https://whatsapp.com/channel/0029VaX4b6J7DAWqt3Hhu01A'
+ sig: 'https://instagram.com/sadkichoaib',
+ sgh:  'https://instagram.com/sadkichoaib',
+ sgc: 'https://whatsapp.com/channe'
 }
 // Donasi
 global.payment = {
@@ -64,8 +64,8 @@ global.payment = {
 }
 // Info Wait
 global.msg = {
- wait: '⏱️ *يرجى التحلي بالصبر*\n\> نحاول تلبية طلبكم ...',
- eror: '🤖 *Information Bot*\n\> Sorry for the inconvenience in using *Silana Ai*. There was an error in the system while executing the command.'
+ wait: '⏱️ *يرجى التحلي بالصبر كان معكم CHOUAIB *\n\> نحاول تلبية طلبكم ...',
+ eror: '🤖 *Information Bot*\n\> Sorry for the inconvenience in using *CHOUAIB SADKI *. There was an error in the system while executing the command.'
 }
  
 // api_id web suntik
